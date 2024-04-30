@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/67/YAOTQ2WE66XLLG6BUEQMKO.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HH/UQQ8KW9LEFQ1663LARFSCK.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OK/K7DG6RT7CLELXQZT7E738I.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YY/K4XVL1VDS4YZSLQO4X2S9V.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XE/0N35C0N1C6JPXR8PIRTC3S.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/T1/XVP442XLDLU4HDMKYSBTTI.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IL/FUSTHZMJN2CWI67AW37MEP.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/rkhan/Desktop/PartielUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/I5/988DVPEXZW6MIIFJFJIWWP.uasset"
+			]
+		}
+	]
+}
